@@ -1,0 +1,27 @@
+Acme/landmine version 0.01
+==========================
+
+It looks like a scalar but if you try to evaluate it an exception
+is thrown, with "confess" stacktrace.  For help debugging data structure
+problems.  References to it are safe though.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+Carp
+
+COPYRIGHT AND LICENCE
+
+2002 David Nicol.  GPL or AL.
+
+
