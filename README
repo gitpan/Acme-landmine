@@ -1,9 +1,10 @@
-Acme/landmine version 0.01
+Acme/landmine version 1.00
 ==========================
 
-It looks like a scalar but if you try to evaluate it an exception
-is thrown, with "confess" stacktrace.  For help debugging data structure
-problems.  References to it are safe though.
+It looks like a scalar/array/hash but if you try to evaluate
+it an exception is thrown, with "confess" stacktrace.  For
+help debugging data structure problems.  References to it
+are safe though.
 
 INSTALLATION
 
@@ -22,6 +23,6 @@ Carp
 
 COPYRIGHT AND LICENCE
 
-2002 David Nicol.  GPL or AL.
+2002, 2006 David Nicol.  GPL or AL.
 
 
